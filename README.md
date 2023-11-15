@@ -1,3 +1,5 @@
+![screencapture-localhost-2023-11-15-10_19_33](https://github.com/mhardaniel/mortgage-loan-calculator/assets/26666891/5f3436c3-012c-4d63-a889-0c3ba6869868)
+
 ## Requirements
 
 https://laravel.com/docs/10.x/installation#getting-started-on-windows
